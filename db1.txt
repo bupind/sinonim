@@ -1,0 +1,2 @@
+array("dealer", "diler", "meresmikan");
+array("shoroom", "showroom", "mengesahkan");
